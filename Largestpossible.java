@@ -33,15 +33,14 @@ class Largestpossible
         }
       }
     }
-    //StringBuilder StrNum=new StringBuilder();
+    
     System.out.println("LARGEST NUMBER POSSIBLE IS:");
     
     for(String out:z)
     {
-      //StrNum.append(out);
+      
       System.out.print(out);
     }
-    //int finalInt=Integer.parseInt(StrNum.toString());
-    //System.out.println("LARGEST NUMBER IS : "+finalInt);
+   
   }
 } 
